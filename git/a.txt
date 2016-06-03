@@ -1,0 +1,1 @@
+任务栈调试 adb shell dumpsys activity activities|findstr "coml.xx.xxx"
